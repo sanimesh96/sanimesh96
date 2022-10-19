@@ -1,5 +1,10 @@
 ### Hi there, I'm Satwik <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
+<p align="center">
+  <a href="[https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer+from+India;Interested+in+ML+%26+Full-Stack Development"></a>
+</p>
+
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning Blockchain
 - 💬 &nbsp;Ask me about anything related to Javascript/Python or React
