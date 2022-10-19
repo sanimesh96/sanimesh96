@@ -318,8 +318,8 @@
 
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=sanimesh96&show_icons=true&theme=bear" width = "50%">
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=sanimesh96&theme=dark&hide_border=true" width = "50%">  
+  <img src = "https://github-readme-stats.vercel.app/api?username=sanimesh96&show_icons=true&theme=bear" width = "40%">
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=sanimesh96&theme=dark&hide_border=true" width = "40%">  
 </p>
   <img src = "https://activity-graph.herokuapp.com/graph?username=sanimesh96&custom_title=Satwik%27s%20Contribution%20Graph&theme=gruvbox" >
 
