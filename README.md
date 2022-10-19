@@ -2,7 +2,7 @@
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning Blockchain
-- 💬 &nbsp;Ask me about anything related to Javascript/Python or React/
+- 💬 &nbsp;Ask me about anything related to Javascript/Python or React
 - 📫 &nbsp;How to reach me: [@sanimesh96](https://www.linkedin.com/in/satwik-animesh-063171211/)
 - 👨‍💻 &nbsp;Read more about my projects at [satwikanimesh.com]()
 - ⚡ &nbsp;Fun fact: I :heart: :dog:s, HIMYM and CSGO  (GamerTag: [Newton](https://steamcommunity.com/id/Newton69420))
