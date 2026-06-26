@@ -11,14 +11,14 @@
 
 ---
 
-### 🛠️ What I'm building & exploring
+### What I'm building & exploring
 
-- **Distributed messaging & experimentation platforms** — A/B systems gating millions of messages/month behind multi-layer caches with sub-5ms decisions
-- **Lead-routing & partner-payment pipelines** — async producer/consumer systems moving hundreds of thousands of leads across telephony vendors
-- **AI-native developer tooling** — MCP servers (OAuth 2.1 + PKCE) that give engineers natural-language access to internal platforms
-- **Going deeper on** designing for scale before it's needed, event-driven architecture, and the agentic / LLM tooling space — MCP, prompt engineering, AI-assisted workflows
+- **Messaging & experimentation platforms** — A/B systems gating millions of messages/month with sub-5ms decisions
+- **Lead-routing & payment pipelines** — async systems moving hundreds of thousands of leads across telephony vendors
+- **AI-native developer tooling** — MCP servers that bring internal platforms into AI assistants
+- **Going deeper on** scale-first design, event-driven architecture, and agentic / LLM tooling
 
-### ⚙️ What I work with
+### What I work with
 
 `TypeScript` · `NestJS` · `Python` · `Django` · `Next.js` · `MySQL` · `MongoDB` · `Redis` · `Kafka` · `AWS` · `Docker`
 
