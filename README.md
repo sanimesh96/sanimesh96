@@ -9,22 +9,14 @@
   lead-routing engines, data pipelines, and AI-native developer tooling.
 </p>
 
-<p align="center">
-  <sub><i>"Amaze." &nbsp;— Rocky, Project Hail Mary</i></sub>
-</p>
-
 ---
 
-### 🛠️ What I'm building
+### 🛠️ What I'm building & exploring
 
 - **Distributed messaging & experimentation platforms** — A/B systems gating millions of messages/month behind multi-layer caches with sub-5ms decisions
 - **Lead-routing & partner-payment pipelines** — async producer/consumer systems moving hundreds of thousands of leads across telephony vendors
 - **AI-native developer tooling** — MCP servers (OAuth 2.1 + PKCE) that give engineers natural-language access to internal platforms
-
-### 🌱 What I'm learning
-
-- Designing for scale before it's needed — caching strategies, event-driven architecture, graceful degradation
-- Deeper into the **agentic / LLM tooling** space — MCP, prompt engineering, AI-assisted workflows
+- **Going deeper on** designing for scale before it's needed, event-driven architecture, and the agentic / LLM tooling space — MCP, prompt engineering, AI-assisted workflows
 
 ### ⚙️ What I work with
 
@@ -46,4 +38,8 @@
   <a href="https://satwikanimesh.com"><img src="https://img.shields.io/badge/Portfolio-satwikanimesh.com-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/satwik-animesh"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:sanimesh96@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <sub><i>"Amaze." &nbsp;— Rocky, Project Hail Mary</i></sub>
 </p>
