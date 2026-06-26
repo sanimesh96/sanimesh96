@@ -1,19 +1,17 @@
 <h1 align="center">Satwik Animesh</h1>
 
 <p align="center">
+  <i>"Amaze."</i><br/>
+  <sub>— Rocky, <i>Project Hail Mary</i></sub>
+</p>
+
+<p align="center">
   <b>Backend & Distributed Systems Engineer</b>
 </p>
 
 <p align="center">
   I build systems that stay fast when they get big — messaging platforms,<br/>
   lead-routing engines, data pipelines, and AI-native developer tooling.
-</p>
-
-<p align="center">
-  <a href="https://satwikanimesh.com"><img src="https://img.shields.io/badge/Portfolio-satwikanimesh.com-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/satwik-animesh"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:sanimesh96@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/sanimesh96"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
@@ -47,7 +45,10 @@
 
 ---
 
+<h3 align="center">🌍 Connect</h3>
+
 <p align="center">
-  <i>🏆 1st place — AWS Health Hackathon · Dr. Reddy's Digital Health Hackathon 2.0</i><br/>
-  <sub>Dogs 🐶 · HIMYM · CSGO (Steam: Newton)</sub>
+  <a href="https://satwikanimesh.com"><img src="https://img.shields.io/badge/Portfolio-satwikanimesh.com-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/satwik-animesh"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:sanimesh96@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
