@@ -1,17 +1,16 @@
 <h1 align="center">Satwik Animesh</h1>
 
 <p align="center">
-  <i>"Amaze."</i><br/>
-  <sub>— Rocky, <i>Project Hail Mary</i></sub>
-</p>
-
-<p align="center">
   <b>Backend & Distributed Systems Engineer</b>
 </p>
 
 <p align="center">
   I build systems that stay fast when they get big — messaging platforms,<br/>
   lead-routing engines, data pipelines, and AI-native developer tooling.
+</p>
+
+<p align="center">
+  <sub><i>"Amaze." &nbsp;— Rocky, Project Hail Mary</i></sub>
 </p>
 
 ---
