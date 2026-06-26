@@ -1,7 +1,7 @@
 <h1 align="center">Satwik Animesh</h1>
 
 <p align="center">
-  <b>Backend & Distributed Systems Engineer</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=480&lines=Backend+%26+Distributed+Systems+Engineer;Full-Stack+Engineer;Data+Pipelines+%26+Event-Driven+Systems;Agentic+Engineering" />
 </p>
 
 <p align="center">
