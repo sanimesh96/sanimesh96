@@ -33,8 +33,6 @@
 
 ---
 
-<h3 align="center">🐍 My contributions, eaten by a snake</h3>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sanimesh96/sanimesh96/output/github-contribution-grid-snake-dark.svg" />
@@ -44,8 +42,6 @@
 </p>
 
 ---
-
-<h3 align="center">🌍 Connect</h3>
 
 <p align="center">
   <a href="https://satwikanimesh.com"><img src="https://img.shields.io/badge/Portfolio-satwikanimesh.com-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
