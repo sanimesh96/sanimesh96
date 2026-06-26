@@ -1,50 +1,53 @@
 <h1 align="center">Satwik Animesh</h1>
 
 <p align="center">
-  Backend · Distributed Systems · TypeScript · Python · NestJS · AWS
+  <b>Backend & Distributed Systems Engineer</b>
 </p>
-
----
-
-Building distributed backends, data pipelines, and AI-native developer tooling.
-Comfortable operating systems at scale — messaging platforms, lead routing engines, cloud infra.
-
-- 🎓 NIT Rourkela · B.Tech CSE · 2023
-- 🏆 1st — AWS Health Hackathon · Dr. Reddy's Digital Health Hackathon 2.0
-- 🌐 [satwikanimesh.com](https://satwikanimesh.com)
-- ⚡ Dogs · HIMYM · CSGO (Steam: Newton)
-
----
-
-## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanimesh96&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=sanimesh96&theme=tokyonight&hide_border=true" width="48%" />
+  I build systems that stay fast when they get big — messaging platforms,<br/>
+  lead-routing engines, data pipelines, and AI-native developer tooling.
+</p>
+
+<p align="center">
+  <a href="https://satwikanimesh.com"><img src="https://img.shields.io/badge/Portfolio-satwikanimesh.com-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/satwik-animesh"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:sanimesh96@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/sanimesh96"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🐍 Contributions
+### 🛠️ What I'm building
+
+- **Distributed messaging & experimentation platforms** — A/B systems gating millions of messages/month behind multi-layer caches with sub-5ms decisions
+- **Lead-routing & partner-payment pipelines** — async producer/consumer systems moving hundreds of thousands of leads across telephony vendors
+- **AI-native developer tooling** — MCP servers (OAuth 2.1 + PKCE) that give engineers natural-language access to internal platforms
+
+### 🌱 What I'm learning
+
+- Designing for scale before it's needed — caching strategies, event-driven architecture, graceful degradation
+- Deeper into the **agentic / LLM tooling** space — MCP, prompt engineering, AI-assisted workflows
+
+### ⚙️ What I work with
+
+`TypeScript` · `NestJS` · `Python` · `Django` · `Next.js` · `MySQL` · `MongoDB` · `Redis` · `Kafka` · `AWS` · `Docker`
+
+---
+
+<h3 align="center">🐍 My contributions, eaten by a snake</h3>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sanimesh96/sanimesh96/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sanimesh96/sanimesh96/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sanimesh96/sanimesh96/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/sanimesh96/sanimesh96/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
 ---
 
-## 🌍 Connect
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/satwik-animesh"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  &nbsp;
-  <a href="mailto:sanimesh96@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanimesh96&style=flat-square&color=blue" />
+  <i>🏆 1st place — AWS Health Hackathon · Dr. Reddy's Digital Health Hackathon 2.0</i><br/>
+  <sub>Dogs 🐶 · HIMYM · CSGO (Steam: Newton)</sub>
 </p>
